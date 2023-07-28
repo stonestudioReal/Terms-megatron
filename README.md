@@ -20,4 +20,4 @@ Data is anonymously collected for analytic purposes. This means information such
 Distribution of data
 None of your data is being distributed to anybody else, it is only used in internal processes to improve user experience and services.
 
-#Deletion of data All user-related data can be deleted by us on request in the support server(dsc.gg/sknmc) or Kicking Bot.
+# Deletion of data All user-related data can be deleted by us on request in the support server(dsc.gg/sknmc) or Kicking Bot.
