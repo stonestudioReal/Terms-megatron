@@ -1,0 +1,2 @@
+# Terms-megatron
+Privacy Policy
